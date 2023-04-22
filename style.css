@@ -12,3 +12,15 @@
 #start , #status {
     font-size: 22px;
 }
+.modal-dialog {
+    width: 70%;
+}
+.modal-body {
+    font-size: 20px;
+    text-align: left;
+}
+h4 {
+    background-color: darkslategray;
+    color: floralwhite;
+    line-height: 2;
+}
